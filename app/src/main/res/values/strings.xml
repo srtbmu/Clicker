@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="_3m">3m</string>
+    <string name="click_speed_test">Click Speed Test</string>
+</resources>
